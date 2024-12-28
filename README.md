@@ -1,4 +1,6 @@
-*this is for educational purpose use
+*NOTE*
+
+THIS TOOL FOR AN EDUCATIONAL PURPOSE!!!
 
 
 *steps to use
@@ -31,4 +33,4 @@
 *select your format for download
 
 
-*thanks...pax team*
+*THANKS... PAX TEAM*
