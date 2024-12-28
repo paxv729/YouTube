@@ -4,7 +4,9 @@ THIS TOOL FOR AN EDUCATIONAL PURPOSE!!!
 
 
 *steps to use
-* <termux>
+
+* TERMUX
+
 *1 pkg update && pkg upgrade -y
 
 *2 pip install pytube
@@ -19,7 +21,8 @@ THIS TOOL FOR AN EDUCATIONAL PURPOSE!!!
 
 
 
-* <Linux>
+* LINUX
+
 *apt update && apt upgrade -y
 
 *pip install pytube
